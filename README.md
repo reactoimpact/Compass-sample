@@ -1,5 +1,5 @@
-# CompassCal
-A app to easily see your Compass Callendar on the desktop
+# CompassCal, An app to easily see your Compass Callendar on the desktop
+
 
 
 Havn't you gotten tierd of opening your browser, navagating to Compass and loging in just to see what you have next session? Well i sought to fix this problen and came up with a nice and minamilistic python application that shows your daliy timetable.   
@@ -13,6 +13,8 @@ Upon opening it for the first time, paste your Compass Sync My Schedule link int
 ![Private Compass Sync My Schedule input](https://user-images.githubusercontent.com/122259384/221346145-535bc607-37b5-4c9d-b088-94afb719e389.png)
 
 It will then take you to the main program where it shows you timetable in a small window.
+
+
  
  You can use this application but is by no means finnished and has numerous bugs and flaws, i would gratly appreaciate any help. 
 
