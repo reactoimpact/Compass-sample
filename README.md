@@ -16,6 +16,6 @@ It will then take you to the main program where it shows you timetable in a smal
 
 
  
- You can use this application but is by no means finnished and has numerous bugs and flaws, i would gratly appreaciate any help. 
+ You can use this application but is by no means *finnished* and has numerous bugs and flaws, i would gratly appreaciate any help. 
 
 Please leave any suggestions on making it more user friendly/usable/athetic in the github issues page for this project aswll as any gliches in the program.
