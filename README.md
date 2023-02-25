@@ -8,11 +8,12 @@ Havn't you gotten tierd of opening your browser, navagating to Compass and login
 
 
 All you have to do is download the provided CompassCal.exe file to a folder in your documents folder.
-![Private Compass Sync My Schedule input](https://user-images.githubusercontent.com/122259384/221346145-535bc607-37b5-4c9d-b088-94afb719e389.png)
 Upon opening it for the first time, paste your Compass Sync My Schedule link into the textbox ( Ctrl + v ) and press submit. Be aware that it will create a logins.txt file in the same folder that CompassCal.exe was placed in.
+
+![Private Compass Sync My Schedule input](https://user-images.githubusercontent.com/122259384/221346145-535bc607-37b5-4c9d-b088-94afb719e389.png)
 
 It will then take you to the main program where it shows you timetable in a small window.
  
+ You can use this application but is by no means finnished and has numerous bugs and flaws, i would gratly appreaciate any help. 
 
-
-
+Please leave any suggestions on making it more user friendly/usable/athetic in the github issues page for this project aswll as any gliches in the program.
