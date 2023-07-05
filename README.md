@@ -1,6 +1,7 @@
 # CompassCal, An app to easily see your Compass Callendar on the desktop
 
-
+UPDATE
+This is an in progress repository, I am trying to find a new way to get the callender from compass.
 
 Havn't you gotten tierd of opening your browser, navagating to Compass and loging in just to see what you have next session? Well i sought to fix this problen and came up with a nice and minamilistic python application that shows your daliy timetable.   
 
